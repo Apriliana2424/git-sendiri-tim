@@ -68,4 +68,4 @@ dibuat ketika perubahan perlu dibuat. Permintaan tarik berguna dalam model ini k
 kode dan diskusi umum tentang sekumpulan perubahan sebelum perubahan digabungkan ke dalam cabang pengembangan utama. 
 Model ini lebih umum dengan tim kecil dan organisasi yang berkolaborasi dalam proyek – proyek swasta.
 
-[](https://help.github.com/articles/about-collaborative-development-models/)
+[https://help.github.com/articles/about-collaborative-development-models/](https://help.github.com/articles/about-collaborative-development-models/)
