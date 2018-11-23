@@ -2,6 +2,10 @@
 
 ---
 
+[!gambar](https://github.com/Apriliana2424/git-sendiri-tim/tree/master/images)
+
+---
+
 **Git** adalah version control system yang digunakan para developer untuk mengembangkan software 
 secara bersama-bersama.  Git itu sebuah software, bukanlah sebuah bahasa seperti halnya HTML,CSS 
 atau Js bukan pula sebuah konsep atau aturan baku dalam pemrograman.
