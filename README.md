@@ -2,7 +2,7 @@
 
 ---
 
-[!gambar](https://github.com/Apriliana2424/git-sendiri-tim/tree/master/images)
+[!gambar](https://github.com/Apriliana2424/git-sendiri-tim/blob/master/images/git.jpg)
 
 ---
 
