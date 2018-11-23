@@ -1,4 +1,5 @@
 ## GIT
+
 ---
 
 **Git** adalah version control system yang digunakan para developer untuk mengembangkan software 
@@ -9,6 +10,7 @@ atau Js bukan pula sebuah konsep atau aturan baku dalam pemrograman.
 checkpoint ketika terjadi perubahan pada kode yang telah dikerjakan dan tentunya akan mempermudah 
 dalam mengetahui apa saja yang berubah dari source code itu sendiri , selain itu jika ingin 
 mengembalikan Project anda dari awal dapat diambil source codenya tersebut di Git.
+
 [https://www.dicloud.id/tutorial/articles/pengertian-apa-itu-git-dan-fungsi-dari-git](https://www.dicloud.id/tutorial/articles/pengertian-apa-itu-git-dan-fungsi-dari-git)
 
 ---
@@ -23,6 +25,7 @@ tanpa diketahui oleh Git.
 Mekanisme checksum yang digunakan oleh Git adalah SHA-1 hash. Ini merupakan sebuah susunan string yang 
 terdiri dari 40 karakter heksadesimal (0 hingga 9 dan a hingga f) dan dihitung berdasarkan isi dari 
 sebuah berkas atau struktur direktori pada Git.
+
 [https://git-scm.com/book/id/v1/Memulai-Git-Dasar-Git](https://git-scm.com/book/id/v1/Memulai-Git-Dasar-Git)
 
 ---
@@ -31,6 +34,7 @@ Secara umum Git hanya menambahkan data. Sulit untuk kehilangan suatu data yang s
 Setiap developer bisa membuat branch sebagai workspacenya sehingga code tidak akan dapat bentrok. 
 Pada git juga bisa ditambah komentar yang dapat mempermudah developer lain dalam mengetahui kendala 
 dari developer lain.
+
 ***Untuk menggunakan git, perintah-perintah dasar git:***
 * Git init : untuk membuat repository pada file lokal yang nantinya ada difolder .git
 * Git status : untuk mengetahui status dari repository lokal
